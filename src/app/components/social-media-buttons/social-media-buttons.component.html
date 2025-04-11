@@ -1,0 +1,13 @@
+<ul class="links-list">
+
+    @if(socialMediaButtons.length > 0){
+        @for (btn of socialMediaButtons; track btn) {
+            <li class="links-list__item">
+                <a href="{{btn.url}}" class="btn-link" role="button" target="_blank" rel="noopener noreferrer">
+                    <img src="{{btn.icon}}" alt="" />
+                    {{btn.textButton}}
+                </a>
+            </li>
+        }
+    }
+</ul>

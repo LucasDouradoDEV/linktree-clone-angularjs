@@ -1,0 +1,42 @@
+[
+    {
+      "textButton": "Facebook",
+      "url": "https://www.exemplo.com/facebook",
+      "icon": "https://cdn-icons-png.flaticon.com/512/145/145802.png"
+    },
+    {
+      "textButton": "Instagram",
+      "url": "https://www.exemplo.com/instagram",
+      "icon": "https://cdn-icons-png.flaticon.com/512/1384/1384063.png"
+    },
+    {
+      "textButton": "Twitter",
+      "url": "https://www.exemplo.com/twitter",
+      "icon": "https://cdn-icons-png.flaticon.com/512/733/733579.png"
+    },
+    {
+      "textButton": "TikTok",
+      "url": "https://www.exemplo.com/tiktok",
+      "icon": "https://cdn-icons-png.flaticon.com/512/3046/3046120.png "
+    },
+    {
+      "textButton": "YouTube",
+      "url": "https://www.exemplo.com/youtube",
+      "icon": "https://cdn-icons-png.flaticon.com/512/1384/1384060.png"
+    },
+    {
+      "textButton": "Twitch",
+      "url": "https://www.exemplo.com/twitch",
+      "icon": "https://cdn-icons-png.flaticon.com/512/4494/4494567.png"
+    },
+    {
+      "textButton": "GitHub",
+      "url": "https://www.exemplo.com/github",
+      "icon": "https://cdn-icons-png.flaticon.com/512/25/25231.png"
+    },
+    {
+      "textButton": "Website",
+      "url": "https://www.exemplo.com",
+      "icon": "https://cdn-icons-png.flaticon.com/512/2721/2721688.png"
+    }
+  ]
